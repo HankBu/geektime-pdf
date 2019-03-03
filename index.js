@@ -1,4 +1,4 @@
-const GeektimePdf = require('./lib/core');
+const GeektimePdf = require('./src/index');
 
 GeektimePdf();
 
