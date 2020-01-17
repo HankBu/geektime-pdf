@@ -1,0 +1,27 @@
+{
+  "name": "geektime-pdf",
+  "version": "0.0.1",
+  "description": "download geektime and convert to pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HankBu/geektime-pdf.git"
+  },
+  "keywords": [
+    "geektime",
+    "pdf"
+  ],
+  "author": "HankBu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HankBu/geektime-pdf/issues"
+  },
+  "homepage": "https://github.com/HankBu/geektime-pdf#readme",
+  "dependencies": {
+    "puppeteer-cn": "^0.1.8"
+  }
+}
